@@ -1,0 +1,7 @@
+C:\Users\Fulish\Desktop\zgadywanka-lab4n-master\GraZaDuzoZaMalo\GraMonolitycznie\bin\Debug\GraMonolitycznie.exe.config
+C:\Users\Fulish\Desktop\zgadywanka-lab4n-master\GraZaDuzoZaMalo\GraMonolitycznie\bin\Debug\GraMonolitycznie.exe
+C:\Users\Fulish\Desktop\zgadywanka-lab4n-master\GraZaDuzoZaMalo\GraMonolitycznie\bin\Debug\GraMonolitycznie.pdb
+C:\Users\Fulish\Desktop\zgadywanka-lab4n-master\GraZaDuzoZaMalo\GraMonolitycznie\obj\Debug\GraMonolitycznie.csprojAssemblyReference.cache
+C:\Users\Fulish\Desktop\zgadywanka-lab4n-master\GraZaDuzoZaMalo\GraMonolitycznie\obj\Debug\GraMonolitycznie.csproj.CoreCompileInputs.cache
+C:\Users\Fulish\Desktop\zgadywanka-lab4n-master\GraZaDuzoZaMalo\GraMonolitycznie\obj\Debug\GraMonolitycznie.exe
+C:\Users\Fulish\Desktop\zgadywanka-lab4n-master\GraZaDuzoZaMalo\GraMonolitycznie\obj\Debug\GraMonolitycznie.pdb
